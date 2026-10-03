@@ -1,0 +1,20 @@
+# Data (large; source URLs are recorded in README instead)
+**/data/raw/
+**/data/processed/
+
+# PowerWorld case files (textbook distribution, not included)
+*.pwb
+*.pwd
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# pandapower large outputs
+*.p
+**/results/**/*.csv
+
+# OS / editor
+.vscode/
+Thumbs.db
