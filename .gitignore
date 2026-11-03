@@ -18,3 +18,5 @@ __pycache__/
 # OS / editor
 .vscode/
 Thumbs.db
+__pycache__/
+*.pyc
